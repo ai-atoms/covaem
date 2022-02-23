@@ -3,6 +3,7 @@
 COllective Variables from AutoEncoders in Materials
 
 Jacopo Baima
+
 Mihai-Cosmin Marinica
 
 other contributions: 
