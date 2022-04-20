@@ -7,4 +7,4 @@ Jacopo Baima
 Mihai-Cosmin Marinica
 
 other contributions: 
-Alexandra M. Goryaeva, Maylise Nastar, Jean-Bernard Maillet
+Alexandra M. Goryaeva, Thomas D. Swinburne, Maylise Nastar, Jean-Bernard Maillet
