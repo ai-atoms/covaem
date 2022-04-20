@@ -1,0 +1,8 @@
+# C15 Cluster with Fe_M07.eam.fs potential
+0.0 11.5412 
+0.0 11.5412
+0.0 11.5412
+0. 0. 0.
+0 0
+struc/knot_0.xyz
+struc/knot_1.xyz

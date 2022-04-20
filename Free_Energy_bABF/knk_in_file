@@ -1,0 +1,21 @@
+# unless line begins with
+# steps temperature potential system bins copies 
+
+# Steps per slice 1000 seems nice
+steps 100000
+
+# Bins
+bins 100
+
+# Potential
+potential pot.fs
+
+#
+dump 0 
+
+# System
+system struc/SC_INFO
+
+# Thermal Expansion (polynomial in T)
+#expansion 1.1e-05 0.0
+
