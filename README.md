@@ -1,4 +1,5 @@
-# covaem
+![logo](Img/abs.gif)
+
 
 COllective Variables from AutoEncoders in Materials (COVAEM)
 ============================================================
